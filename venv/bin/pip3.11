@@ -1,4 +1,4 @@
-#!/Users/sangwoon/test/venv/bin/python3.11
+#!/Users/sangwoon/Programming/test/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
